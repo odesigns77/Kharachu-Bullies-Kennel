@@ -1,0 +1,57 @@
+body{
+  background-color: #000000 ;
+} 
+
+header{
+  background-color: white;
+  font-family: Georgia;
+  box-align: center;
+}
+
+h1{
+  color: #000000;
+  text-align: center;
+}
+
+p{
+  color: white;
+  font-family: Georgia;
+  text-align: center;
+}
+
+h2{
+  color: white;
+  font-family: Georgia;
+  text-align: center;
+}
+
+footer{
+  background-color: #000000;
+}
+
+h4{
+  color: white;
+  font-family: Georgia;
+  text-align: center;
+}
+
+h3{
+  color: white;
+  font-family: Georgia;
+  text-align: center;
+}
+
+button{
+  color: white;
+  background-color: #000000;
+  font-family: Georgia;
+}
+
+button{
+   padding: 16px 25px;
+   font-size: 38px;
+   border-radius: 18px;
+   border-color: white;
+   display: flex
+   justify;content: center;
+} 
